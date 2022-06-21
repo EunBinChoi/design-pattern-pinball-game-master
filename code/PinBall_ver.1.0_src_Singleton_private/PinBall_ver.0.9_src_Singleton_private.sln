@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PinBall_ver.0.9_src_Singleton_private", "PinBall_ver.0.9_src_Singleton_private.csproj", "{E18ED52A-E439-537F-BAC5-C287BAE0A5A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E18ED52A-E439-537F-BAC5-C287BAE0A5A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E18ED52A-E439-537F-BAC5-C287BAE0A5A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E18ED52A-E439-537F-BAC5-C287BAE0A5A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E18ED52A-E439-537F-BAC5-C287BAE0A5A4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
